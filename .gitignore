@@ -18,4 +18,4 @@
 *.jpeg
 *.mp4
 
-./venv
+venv
